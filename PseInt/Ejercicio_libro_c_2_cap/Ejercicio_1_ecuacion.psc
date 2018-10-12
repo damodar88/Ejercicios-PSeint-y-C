@@ -1,0 +1,8 @@
+Algoritmo ecuacion
+	
+	
+	
+	
+	
+	
+FinAlgoritmo
